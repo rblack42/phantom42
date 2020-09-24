@@ -1,7 +1,12 @@
+# Mav
+.DS_Store
+
+# Python
 _venv
 *.py[cod]
 __pycache
 
+# Vim
 *.swp
 *~
 
